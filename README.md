@@ -12,6 +12,10 @@ This operator uses [abstract-operator](https://github.com/jvm-operators/abstract
 ```bash
 make build
 ```
+or 
+```bash
+./gradlew shadowJar
+```
 
 # Quick Start
 
