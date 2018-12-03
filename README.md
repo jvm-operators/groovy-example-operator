@@ -1,6 +1,6 @@
 # groovy-example-operator
 
-[![Build status](https://travis-ci.org/radanalyticsio/spark-operator.svg?branch=master)](https://travis-ci.org/radanalyticsio/spark-operator)
+[![Build status](https://travis-ci.org/jvm-operators/groovy-example-operator.svg?branch=master)](https://travis-ci.org/jvm-operators/groovy-example-operator)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 `{ConfigMap|CRD}`-based approach for managing the X in Kubernetes and OpenShift.
